@@ -34,7 +34,6 @@ export default function Page() {
           <Image
             src="/hero-desktop.png"
             alt="Screenshots of the dashboard project showing desktop version"
-            clsx
           />
         </div>
       </div>
